@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-print/static/css/main.94baf418.css",
+    "main.js": "/web-print/static/js/main.fb04b46f.js",
+    "index.html": "/web-print/index.html",
+    "main.94baf418.css.map": "/web-print/static/css/main.94baf418.css.map",
+    "main.fb04b46f.js.map": "/web-print/static/js/main.fb04b46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94baf418.css",
+    "static/js/main.fb04b46f.js"
+  ]
+}
