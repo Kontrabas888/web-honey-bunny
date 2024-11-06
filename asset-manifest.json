@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/web-print/static/css/main.94baf418.css",
-    "main.js": "/web-print/static/js/main.fb04b46f.js",
-    "index.html": "/web-print/index.html",
-    "main.94baf418.css.map": "/web-print/static/css/main.94baf418.css.map",
-    "main.fb04b46f.js.map": "/web-print/static/js/main.fb04b46f.js.map"
+    "main.css": "/web-honey-bunny/static/css/main.94baf418.css",
+    "main.js": "/web-honey-bunny/static/js/main.4e0d2dfb.js",
+    "index.html": "/web-honey-bunny/index.html",
+    "main.94baf418.css.map": "/web-honey-bunny/static/css/main.94baf418.css.map",
+    "main.4e0d2dfb.js.map": "/web-honey-bunny/static/js/main.4e0d2dfb.js.map"
   },
   "entrypoints": [
     "static/css/main.94baf418.css",
-    "static/js/main.fb04b46f.js"
+    "static/js/main.4e0d2dfb.js"
   ]
 }
